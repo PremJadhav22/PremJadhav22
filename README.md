@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/prem-jadhav](https://eportfolio.mygreatlearning.com/prem-jadhav)
 
-- 💬 Ask me about **"Don’t hesitate to ask me about my journey in learning Python."**
+- 💬  **"Don’t hesitate to ask me about my journey in learning Python."**
 
 - 📫 How to reach me **prem.jadhav23@pcu.edu.in**
 
